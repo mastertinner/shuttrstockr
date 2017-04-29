@@ -1,5 +1,7 @@
 # Shuttrstockr
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mastertinner/shuttrstockr.svg)](https://greenkeeper.io/)
+
 A simple command line tool which downloads a series of images from [Shutterstock](http://www.shutterstock.com/) concerning a predefined search term. Additinally it creates a `.csv` file to save the metadata of each file. This is all achieved using the [Shutterstock API](https://developers.shutterstock.com/).
 
 ## Usage
